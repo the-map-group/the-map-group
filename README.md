@@ -18,8 +18,6 @@ The markers have the same behaviour of the group's map.
 
 [![Member Map](https://live.staticflickr.com/65535/50276281928_9817158c15_b.jpg)](https://the-map-group.top/people/hpfilho)
 
-<br>
-
 ### Code
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
