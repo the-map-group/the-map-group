@@ -25,11 +25,15 @@ to get the photos data.
 
 ### Map Renderization
 
-The map is provided by [_Mapbox_](https://www.mapbox.com/), using its [_Mapbox GL JS API_](https://docs.mapbox.com/mapbox-gl-js/api/) to populate it with the markers data.
+The maps are provided by [_Mapbox_](https://www.mapbox.com/), using its [_Mapbox GL JS API_](https://docs.mapbox.com/mapbox-gl-js/api/) to populate it with the markers data.
 
-## Coding
+### Map Update
 
-The following languages are used on this project:
+The maps are updated every day, at 03:00 (UTC -03:00). The update scripts are executed in a [Raspberry Pi 3](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/) device, running a [Raspibian](https://www.raspbian.org/) Linux system.
+
+### Map Code
+
+The following languages are used to generate the data and build the maps:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-map-group&layout=compact&hide_title=true&exclude_repo=flickr-map&card_width=900" />
