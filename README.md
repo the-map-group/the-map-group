@@ -36,5 +36,9 @@ The maps are updated every day, starting at 03:00 (UTC -03:00). The update scrip
 The following languages are used to generate the data and build the maps:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=haraldofilho&layout=compact&hide_title=true&hide=jupyter%20notebook&exclude_repo=FlickrTasks,FlickrMap,ShutterNotes,haraldoalbergaria.page,nos2viajando.net,haraldofilho.github.io,HaraldoFilho,boot_mail,disk_monitor,temperature_monitor,archived_android_apps,fedora_reinstall,github-readme-stats,Computer-Vision-Nanodegree,Deep-Learning-Nanodegree,Kotlin-Bootcamp,check_ip_changes,Artificial-Intelligence-Nanodegree,CS-Labs_Unicamp,Knapsack-Problem&card_width=900" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-map-group&layout=compact&hide_title=true&exclude_repo=flickr-map&card_width=900" />
 </a>
