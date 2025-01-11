@@ -29,7 +29,7 @@ The maps are provided by [_Mapbox_](https://www.mapbox.com/), using its [_Mapbox
 
 ### Map Update
 
-The maps are updated every day, starting at 03:00 (UTC -03:00). The update scripts are executed in a [Raspberry Pi 3](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/) device, running a [Raspbian](https://www.raspbian.org/) Linux system.
+The maps are updated twice a day, starting at 03:00 and 15:00 (UTC -03:00). The update scripts are executed in a [Raspberry Pi 3](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/) device, running a [Raspbian](https://www.raspbian.org/) Linux system.
 
 ### Map Code
 
